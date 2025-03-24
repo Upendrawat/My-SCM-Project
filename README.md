@@ -7,3 +7,4 @@ This is a sample project that demonstrates advanced Git features.
 To get started, clone the repository:
 ```bash
 git clone https://github.com/Upendrawat/My-SCM-Project.git
+hello i made changes to this..$$
